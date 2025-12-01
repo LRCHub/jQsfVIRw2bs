@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "22の夜",
+  "base_artist": "whimsyboy",
+  "createdAt": "2025-12-01T15:16:37.236557Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "22の夜",
+      "artist": "whimsyboy",
+      "has_synced": false,
+      "path": "select/pl_01_22の夜_whimsyboy.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "22の夜 (Sped Up Ver.)",
+      "artist": "whimsyboy",
+      "has_synced": false,
+      "path": "select/pl_02_22の夜_(Sped_Up_Ver.)_whimsyboy.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "22の夜に (Prod. TakebacKK)",
+      "artist": "whimsyboy",
+      "has_synced": false,
+      "path": "select/pl_03_22の夜に_(Prod._TakebacKK)_whimsyboy.txt"
+    }
+  ]
+}
